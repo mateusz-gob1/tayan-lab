@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.ipynb_checkpoints/
+.hypothesis/
+*.egg-info/
+tayan_lab.egg-info/
